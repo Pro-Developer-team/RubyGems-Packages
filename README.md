@@ -1,0 +1,1 @@
+This repository contains four RubyGems packages, all managed and published through a single GitHub Actions workflow. The names of the packages are dynamically generated based on the paths of their respective `.gemspec` file located in the `Packages/ruby/` directory.
