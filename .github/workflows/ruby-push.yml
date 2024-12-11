@@ -9,7 +9,7 @@ jobs:
   build:
     defaults:
       run:
-        working-directory: ./sample-packages/ruby
+        working-directory: ./Packages/ruby
     name: Build + Publish
     runs-on: ubuntu-latest
     permissions:
